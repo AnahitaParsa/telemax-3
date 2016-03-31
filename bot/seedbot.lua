@@ -227,7 +227,7 @@ function create_config( )
     "plugins",
     "admin"
     },
-    sudo_users = {197092693,115887468,0,tonumber},--Sudo users
+    sudo_users = {197092693,115887468},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
